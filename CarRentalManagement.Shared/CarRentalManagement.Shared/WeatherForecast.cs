@@ -1,4 +1,4 @@
-namespace CarRentalManagement.Server.Data
+namespace CarRentalManagement.Shared
 {
     public class WeatherForecast
     {

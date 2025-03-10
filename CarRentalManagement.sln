@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalManagement.Client"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalManagement.Server", "CarRentalManagement.Server\CarRentalManagement.Server.csproj", "{91A70D57-C4B1-492B-B4C9-1B8C4987AEAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalManagement.Shared", "CarRentalManagement.Shared\CarRentalManagement.Shared\CarRentalManagement.Shared.csproj", "{3B7F1055-42B9-4CEF-A103-24171FD58732}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{91A70D57-C4B1-492B-B4C9-1B8C4987AEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91A70D57-C4B1-492B-B4C9-1B8C4987AEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91A70D57-C4B1-492B-B4C9-1B8C4987AEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7F1055-42B9-4CEF-A103-24171FD58732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7F1055-42B9-4CEF-A103-24171FD58732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7F1055-42B9-4CEF-A103-24171FD58732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7F1055-42B9-4CEF-A103-24171FD58732}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
